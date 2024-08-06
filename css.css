@@ -106,3 +106,6 @@ button:active {
 button:focus {
     outline: none;
 }
+fieldset{
+    border: none;
+}
